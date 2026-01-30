@@ -1,0 +1,16 @@
+{
+  "name": "216launch-landing-page",
+  "version": "1.0.0",
+  "description": "AI Websites for Cleveland Hospitality - Landing Page",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "resend": "^3.2.0"
+  },
+  "devDependencies": {},
+  "keywords": ["landing-page", "cleveland", "hospitality", "ai-websites"],
+  "author": "216 LAUNCH",
+  "license": "MIT"
+}
